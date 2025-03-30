@@ -19,5 +19,5 @@ This project uses **Matplotlib** and **Seaborn** to create visually appealing an
 ## 📈 Visual Results
 
 <p align="center">
-  <img src="images/graficos.png" alt="Gráficos del proyecto" width="600">
+  <img src="https://github.com/Sarracinosofia/Data-Visualization-with-python/blob/main/plots.png" alt="Gráficos del proyecto" width="600">
 </p>
