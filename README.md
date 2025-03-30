@@ -20,13 +20,12 @@ The project follows the structure outlined below:
 
 The project follows the structure outlined below:
 
-- `data/`                    - Contains datasets used for analysis
-- `images/`                  - Stores visualizations and charts
-- `notebooks/`               - Jupyter Notebooks with detailed analysis
-- `scripts/`                 - Python scripts for data processing and analysis
-- `requirements.txt`         - Dependencies required to run the project
-- `README.md`                - Project description and instructions
-  
+📂 Data-Visualization-with-Python  
+│── 📄 README.md  # Explicación del proyecto  
+│── 📄 data_visualization.ipynb  # Jupyter Notebook con el análisis y gráficos  
+│── 📂 images/  # Carpeta para guardar imágenes generadas  
+│   └── ejemplo_visualizacion.png  # Ejemplo de visualización
+
 ## 📈 Visual Results
 
 <p align="center">
