@@ -14,8 +14,6 @@ This project uses **Matplotlib** and **Seaborn** to create visually appealing an
 - **Matplotlib** 📊  
 - **Seaborn** 🎨  
 
-## 📂 Repository Structure 
-The project follows the structure outlined below:
 ## 📂 Repository Structure
 
 The project follows the structure outlined below:
