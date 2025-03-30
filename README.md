@@ -30,5 +30,5 @@ The project follows the structure outlined below:
 ## 📈 Visual Results
 
 <p align="center">
-  <img src="https://github.com/Sarracinosofia/Data-Visualization-with-python/blob/main/plots.png" alt="Gráficos del proyecto" width="600">
+  <img src="https://github.com/Sarracinosofia/Data-Visualization-with-python/blob/main/images.png" alt="Gráficos del proyecto" width="600">
 </p>
