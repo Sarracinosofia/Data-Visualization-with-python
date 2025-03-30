@@ -16,13 +16,17 @@ This project uses **Matplotlib** and **Seaborn** to create visually appealing an
 
 ## 📂 Repository Structure 
 The project follows the structure outlined below:
-``` data/                    # Contains datasets used for analysis
-images/                  # Stores visualizations and charts
-notebooks/               # Jupyter Notebooks with detailed analysis
-scripts/                 # Python scripts for data processing and analysis
-requirements.txt         # Dependencies required to run the project
-README.md                # Project description and instructions ```
+## 📂 Repository Structure
 
+The project follows the structure outlined below:
+
+- `data/`                    - Contains datasets used for analysis
+- `images/`                  - Stores visualizations and charts
+- `notebooks/`               - Jupyter Notebooks with detailed analysis
+- `scripts/`                 - Python scripts for data processing and analysis
+- `requirements.txt`         - Dependencies required to run the project
+- `README.md`                - Project description and instructions
+  
 ## 📈 Visual Results
 
 <p align="center">
