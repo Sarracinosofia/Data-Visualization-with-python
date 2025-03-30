@@ -15,3 +15,9 @@ This project uses **Matplotlib** and **Seaborn** to create visually appealing an
 - **Seaborn** 🎨  
 
 ## 📂 Repository Structure  
+
+## 📈 Visual Results
+
+<p align="center">
+  <img src="images/graficos.png" alt="Gráficos del proyecto" width="600">
+</p>
