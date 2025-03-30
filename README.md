@@ -21,10 +21,9 @@ The project follows the structure outlined below:
 The project follows the structure outlined below:
 
 📂 Data-Visualization-with-Python  
-│── 📄 README.md  # Explicación del proyecto  
-│── 📄 data_visualization.ipynb  # Jupyter Notebook con el análisis y gráficos  
-│── 📂 images/  # Carpeta para guardar imágenes generadas  
-│   └── ejemplo_visualizacion.png  # Ejemplo de visualización
+│── 📄 README.md  # Project explanation  
+│── 📄 data_visualization.ipynb  # Jupyter Notebook with analysis and visualizations  
+│── 📂 images/  # Folder to store generated images  
 
 ## 📈 Visual Results
 
